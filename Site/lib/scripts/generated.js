@@ -1,0 +1,1 @@
+let nodes={paths:["another-page.html","index.html"],nodeCount:2,linkSources:[0,1],linkTargets:[1,0],labels:["Another Page","index"],radii:[7,7],linkCount:2},attractionForce=1,linkLength=10,repulsionForce=150,centralForce=3,edgePruning=100

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Another Page.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Another Page.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -93,12 +93,58 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "29308fb0392840d7",
+  "floating": {
+    "id": "1f4b00376d166368",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6893aea0d5de921d",
+        "type": "window",
+        "children": [
+          {
+            "id": "2bd94684453589c6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6ea6924858dc9c19",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 510,
+        "y": 555,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "6ea6924858dc9c19",
   "lastOpenFiles": [
+    "Site/lib/styles/obsidian-styles.css",
+    "Site/lib/styles",
+    "Site/lib",
+    "Site/another-page.html",
+    "Another Page.md",
     "README.md",
-    "Another Page.md"
+    "Site",
+    "New folder",
+    "~ew shortcut.tmp",
+    "New shortcut.lnk"
   ]
 }
